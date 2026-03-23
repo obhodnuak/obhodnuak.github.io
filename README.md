@@ -2,15 +2,15 @@
 
 (mtproto.me) 
 Россия:  
-[Прокси #1](https://proxy?server=ru.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
-[Прокси #2](https://proxy?server=ru1.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) 
-[Прокси #3](https://proxy?server=ru2.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) 
-[Прокси #4](https://proxy?server=ru3.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
-[Прокси #5](https://proxy?server=ru4.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
-[Прокси #6](https://proxy?server=ru5.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
-[Прокси #7](https://proxy?server=ru6.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
-[Прокси #8](https://proxy?server=ru7.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
-[Прокси #9](https://proxy?server=ru8.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
+[Прокси #1](https://t.me/proxy?server=ru.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
+[Прокси #2](https://t.me/proxy?server=ru1.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) 
+[Прокси #3](https://t.me/proxy?server=ru2.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) 
+[Прокси #4](https://t.me/proxy?server=ru3.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
+[Прокси #5](https://t.me/proxy?server=ru4.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
+[Прокси #6](https://t.me/proxy?server=ru5.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
+[Прокси #7](https://t.me/proxy?server=ru6.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
+[Прокси #8](https://t.me/proxy?server=ru7.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
+[Прокси #9](https://t.me/proxy?server=ru8.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275)
 
 (Telegram) рандом прокси без рекламы:
 [Прокси #1](https://t.me/proxy?server=82.25.34.112&port=443&secret=ee7f72314530125f603aa35e561ca82e0a72752e74726164696e67766965772e636f6d)
