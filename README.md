@@ -21,5 +21,5 @@
 [Прокси #6](https://t.me/proxy?server=82.38.63.155&port=8443&secret=ee176ae19c3652267d3ca18fcaf4986fb17777772e676f6f676c652e636f6d)
 [Прокси #7](https://t.me/proxy?server=love.funstat.info&port=853&secret=ee26ca1d1b79910d1d2b9a55fb2479f5e6646e732e676f6f676c65) new
 
-(Обновлено 20.03.2025)
+(Обновлено 24.03.2026)
 
